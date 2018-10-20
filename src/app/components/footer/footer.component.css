@@ -1,0 +1,36 @@
+footer{
+    background: url('../../../assets/img/footer.png') no-repeat center center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.footer-social{
+    margin-bottom: 20px;
+}
+footer .footer-social ul li a {
+    display: block;
+    font-size: 16px;
+    color: #ffffff;
+    background: rgba(248, 250, 251, 0.42);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+}
+.footer{
+    padding-top: 15px;
+    color: #fff;
+}
+p.copyright {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 30px;
+}
+p.copyright a{
+    color: #fff;
+}
+p.copyright i{
+    color: red;
+    margin-right: 5px;
+}
